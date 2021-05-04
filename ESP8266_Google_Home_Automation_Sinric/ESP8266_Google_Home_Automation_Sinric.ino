@@ -11,10 +11,8 @@
 
 #include <map>
 
-#define WIFI_SSID         "TP-LINK_2.4GHz_7EA891"    
-#define WIFI_PASS         "love055822083"
-#define APP_KEY           "54e66801-c21a-4855-8e37-5abf3e77ccdf"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "7bf5df62-cb71-4e45-8855-dffc14075853-2da38f77-0e09-4cf0-86ef-f9bd35b4180d"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define APP_KEY           "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 
 //Enter the device IDs here
 #define device_ID_1   "60895621d3827f1ea82d3560"
